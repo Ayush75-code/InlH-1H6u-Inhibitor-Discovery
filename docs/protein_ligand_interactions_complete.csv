@@ -1,0 +1,29 @@
+Compound,Interaction Type,Residue,ResChain,ResNr_Lig,ResType_Lig,ResChain_Lig,Distance,Distance_H-A,Distance_D-A,Don_Angle,Sidechain,ProtIsDon,DonorIdx,DonorType,AcceptorIdx,AcceptorType,LigCarbonIdx,ProtCarbonIdx,LigCOO,ProtCOO
+Control Analogue,Hydrophobic,GLN,A,1,UNL,A,3.85,,,,,,,,,,26,79,"9.034, 21.289, 24.927","7.822, 21.833, 21.309"
+Control Analogue,Hydrophobic,THR,A,1,UNL,A,3.74,,,,,,,,,,8,98,"9.672, 18.448, 26.083","7.545, 16.166, 24.024"
+Control Analogue,Hydrophobic,GLU,A,1,UNL,A,3.30,,,,,,,,,,23,521,"13.154, 13.462, 31.878","11.514, 11.911, 34.287"
+Control Analogue,Hydrophobic,TYR,A,1,UNL,A,3.66,,,,,,,,,,16,560,"9.733, 17.971, 29.213","8.638, 18.245, 32.693"
+Control Analogue,Hydrogen Bond,THR,A,1,UNL,A,,2.59,3.77,153.56,True,True,71,O3,32,O3,,,,,
+Control Analogue,Hydrogen Bond,GLN,A,1,UNL,A,,2.08,2.93,146.22,True,False,30,O3,82,O2,,,,,
+Control Analogue,Hydrogen Bond,GLN,A,1,UNL,A,,2.05,2.71,123.28,True,False,32,O3,82,O2,,,,,
+Control Analogue,Hydrogen Bond,GLU,A,1,UNL,A,,2.46,3.23,135.21,True,False,34,O.co2,524,O-,,,,,
+Control Analogue,Hydrogen Bond,GLN,A,1,UNL,A,,2.37,2.88,111.73,True,True,546,Nam,33,O.co2,,,,,
+Hedragenin Analogue,Hydrophobic,THR,A,1,UNL,A,3.69,,,,,,,,,,14,1062,"-3.443, -2.179, 53.479","-0.131, -0.553, 53.637"
+Hedragenin Analogue,Hydrophobic,TYR,A,1,UNL,A,3.65,,,,,,,,,,27,1239,"-5.265, 1.499, 52.582","-4.892, 3.689, 55.480"
+Hedragenin Analogue,Hydrophobic,ASP,A,1,UNL,A,3.79,,,,,,,,,,20,1259,"-3.719, -0.193, 54.986","-0.846, -0.266, 57.459"
+Hedragenin Analogue,Hydrogen Bond,LYS,A,1,UNL,A,,2.39,3.38,163.77,True,True,655,N3+,32,O2,,,,,
+Hedragenin Analogue,Hydrogen Bond,SER,A,1,UNL,A,,2.30,3.12,141.15,True,True,866,O3,32,O2,,,,,
+Hedragenin Analogue,Hydrogen Bond,THR,A,1,UNL,A,,2.85,3.74,147.86,True,True,1063,O3,32,O2,,,,,
+Hedragenin Analogue,Hydrogen Bond,ASN,A,1,UNL,A,,2.06,3.10,130.05,True,True,1470,Nam,34,O.co2,,,,,
+Maslinic Acid Analogue,Hydrophobic,GLU,A,1,UNL,A,3.69,,,,,,,,,,23,522,"10.118, 14.846, 32.530","11.514, 11.911, 34.287"
+Maslinic Acid Analogue,Hydrogen Bond,GLN,A,1,UNL,A,,1.82,2.73,155.41,True,False,33,O3,83,O2,,,,,
+Maslinic Acid Analogue,Hydrogen Bond,GLN,A,1,UNL,A,,2.09,3.02,155.28,True,True,547,Nam,32,O3,,,,,
+Maslinic Acid Analogue,Hydrogen Bond,TYR,A,1,UNL,A,,2.42,3.04,121.81,True,False,32,O3,564,O3,,,,,
+Lupeol Analogue,Hydrophobic,ASN,A,1,UNL,A,3.89,,,,,,,,,,21,1456,"4.249, -6.220, 61.727","0.991, -4.452, 60.544"
+Lupeol Analogue,Hydrophobic,ASP,A,1,UNL,A,4.00,,,,,,,,,,10,1662,"3.267, -7.058, 63.871","-0.525, -6.005, 64.565"
+Lupeol Analogue,Hydrophobic,GLN,A,1,UNL,A,3.98,,,,,,,,,,18,1908,"1.928, -7.710, 70.879","2.645, -5.579, 74.167"
+Lupeol Analogue,Hydrogen Bond,GLN,A,1,UNL,A,,3.21,4.02,142.01,True,False,22,O3,1477,O2,,,,,
+Lupeol Analogue,Hydrogen Bond,LYS,A,1,UNL,A,,3.29,3.72,107.36,True,True,1686,N3+,22,O3,,,,,
+Lupeol Analogue,Hydrogen Bond,ASN,A,1,UNL,A,,3.20,3.58,103.32,False,True,1892,N3,23,O3,,,,,
+Lupeol Analogue,Hydrogen Bond,THR,A,1,UNL,A,,2.67,3.59,154.05,False,True,2118,Nam,23,O3,,,,,
+Lupeol Analogue,Hydrogen Bond,THR,A,1,UNL,A,,2.41,3.22,140.60,True,False,23,O3,2124,O3,,,,,

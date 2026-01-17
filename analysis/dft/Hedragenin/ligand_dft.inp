@@ -1,0 +1,11 @@
+! B3LYP D3 def2-SVP Opt
+
+%plots
+  Format Cube;
+  ElDens("ligand_eldens");
+  dim1 80;
+  dim2 80;
+  dim3 80;
+end
+
+* xyzfile 0 1 ligand.xyz

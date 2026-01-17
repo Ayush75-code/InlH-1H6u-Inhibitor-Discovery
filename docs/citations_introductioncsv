@@ -1,0 +1,32 @@
+#,Source Title,Key Topic,DOI / Source
+1,"Morris, G. M., et al. (2009). AutoDock4 and AutoDockTools4...",Docking Software (AD4/ADT),doi:10.1002/jcc.21256
+2,"Trott, O., & Olson, A. J. (2010). AutoDock Vina: improving the speed and accuracy...",Docking Software (Vina),doi:10.1002/jcc.21334
+3,"O'Boyle, N. M., et al. (2011). Open Babel: An open chemical toolbox.",Software,doi:10.1186/1758-2946-3-33
+4,"The PyMOL Molecular Graphics System, Version 2.5.",Visualization Software,"Schrödinger, LLC"
+5,"Adasme, M. F., et al. (2021). PLIP 2021: expanding the scope of the protein–ligand interaction profiler...",Interaction Analysis Tool (PLIP),doi:10.1093/nar/gkab294
+6,"Daina, A., Michielin, O., & Zoete, V. (2017). SwissADME: a free web tool to evaluate pharmacokinetics...",ADMET Server,doi:10.1038/srep42717
+7,"Berman, H. M., et al. (2000). The Protein Data Bank.",Database (RCSB PDB),doi:10.1093/nar/28.1.235
+8,"Singh, U. C., & Kollman, P. A. (1984). An approach to computing electrostatic charges for molecules.",Kollman Charge Method,doi:10.1002/jcc.540050204
+9,"Kim, S., Chen, J., et al. (2023). PubChem 2023 update.",Database (PubChem),doi:10.1093/nar/gkac956
+10,"Lipinski, C. A., et al. (1997). Experimental and computational approaches to estimate solubility...",Lipinski's Rule of Five,doi:10.1016/S0169-409X(96)00423-1
+11,"Halgren, T. A. (1996). Merck molecular force field. I. Basis, form, scope...",MMFF94 Force Field,doi:10.1002/(SICI)1096-987X(199604)17:5/6<490::AID-JCC1>3.0.CO;2-P
+12,"Gasteiger, J., & Marsili, M. (1980). Iterative partial equalization of orbital electronegativity...",Gasteiger Charge Method,doi:10.1016/0040-4020(80)80168-2
+13,"Abraham, M. J., et al. (2015). GROMACS: High performance molecular simulations...",MD Software,doi:10.1093/bioinformatics/btv331
+14,"Lindorff-Larsen, K., et al. (2010). Improved side-chain torsion potentials for the Amber ff99SB protein force field.",AMBER99SB-ILDN FF,doi:10.1002/prot.22711
+15,"Wang, J., Wolf, R. M., et al. (2004). Development and testing of a general Amber force field (GAFF).",GAFF Force Field,doi:10.1002/jcc.20035
+16,"Jorgensen, W. L., et al. (1983). Comparison of simple potential functions for simulating liquid water (TIP3P).",TIP3P Water Model,doi:10.1063/1.445869
+17,"Wang, J., et al. (2006). Automatic atom type and bond type perception in molecular mechanical calculations (Antechamber).",Antechamber/AM1-BCC Setup,doi:10.1016/j.jmgm.2005.12.005
+18,"Jakalian, A., et al. (2000). Fast, efficient generation of high-quality atomic charges (AM1-BCC).",AM1-BCC Charge Method,doi:10.1002/(SICI)1096-987X(20000130)21:2<132::AID-JCC5>3.0.CO;2-J
+19,"Sousa da Silva, A. W., & Vranken, W. F. (2012). ACPYPE - AnteChamber PYthon Parser interfacE.",Topology Conversion Tool,doi:10.1186/1756-0500-5-367
+20,"Bussi, G., Donadio, D., & Parrinello, M. (2007). Canonical sampling through velocity rescaling (V-rescale).",Thermostat,doi:10.1063/1.2408420
+21,"Berendsen, H. J. C., et al. (1984). Molecular dynamics with coupling to an external bath (Berendsen Barostat).",Barostat,doi:10.1063/1.448118
+22,"Parrinello, M., & Rahman, A. (1981). Polymorphic transitions in single crystals: A new molecular dynamics method (Parrinello-Rahman Barostat).",Barostat,doi:10.1063/1.328693
+23,"Humphrey, W., Dalke, A., & Schulten, K. (1996). VMD: Visual molecular dynamics.",Analysis Software,doi:10.1016/0263-7855(96)00018-5
+24,"Valdés-Tresanco, M. S., et al. (2021). gmx_MMPBSA: A New Tool to Perform End-State Free Energy Calculations with GROMACS.",MMGBSA Software,doi:10.1021/acs.jctc.1c00653
+25,"Onufriev, A., et al. (2004). Exploring protein native states with a modified generalized Born model (GB-OBC2).",MMGBSA Implicit Solvent Model,doi:10.1002/prot.20033
+26,"Neese, F. (2022). Software update: The ORCA program system, version 5.0.",DFT Software,doi:10.1002/wcms.1606
+27,"Becke, A. D. (1993). A new mixing of Hartree–Fock and local density-functional theories.",DFT Functional (B3LYP Part 1),doi:10.1063/1.464304
+28,"Lee, C., Yang, W., & Parr, R. G. (1988). Development of the Colle-Salvetti correlation-energy formula...",DFT Functional (B3LYP Part 2),doi:10.1103/PhysRevB.37.785
+29,"Weigend, F., & Ahlrichs, R. (2005). Balanced basis sets of split valence...",DFT Basis Set (def2-SVP),doi:10.1039/B508541A
+30,"Grimme, S., et al. (2010). A consistent and accurate ab initio parametrization of density functional dispersion correction (D3).",DFT Dispersion Correction,doi:10.1063/1.3382344
+31,(Continuation of Introduction Sources [1] through [18]),Clinical/Mechanism/Strategy,(See user's final Introduction list for citations 31-48.)

@@ -1,0 +1,76 @@
+# ===========================================
+# Git Ignore - InlH Inhibitor Discovery
+# ===========================================
+
+# ============ Large Simulation Files ============
+# These files are stored on Google Drive
+
+# Trajectory files (very large - ~2GB each)
+*.xtc
+*.trr
+*.dcd
+
+# Energy and checkpoint files
+*.edr
+*.cpt
+*.cpt.prev
+
+# Topology runtime files (large)
+*.tpr
+
+# GROMACS output
+*.gro
+*.pdb
+!*_final.pdb
+
+# ============ Large Analysis Files ============
+# DFT output files (large)
+*.out
+*.log
+!*.ipynb
+
+# Large image formats
+*.tiff
+*.tif
+*.emf
+*.pov
+
+# ============ Temporary/Generated ============
+# Backup files
+*~
+*.bak
+\#*\#
+*.swp
+
+# PyMOL sessions
+*.pse
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# ============ OS Generated ============
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============ IDE ============
+.vscode/
+.idea/
+
+# ============ Archives ============
+*.zip
+*.7z
+*.tar.gz
+
+# ============ Specific Exclusions ============
+# Simulation folders (too large for GitHub)
+simulations/
+
+# Cleanup script (not needed in repo)
+cleanup_research_directory.ps1

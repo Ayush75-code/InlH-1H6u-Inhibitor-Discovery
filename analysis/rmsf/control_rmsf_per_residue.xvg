@@ -1,0 +1,635 @@
+# Grace project file
+#
+@version 50125
+@page size 792, 612
+@page scroll 5%
+@page inout 5%
+@link page off
+@map font 8 to "Courier", "Courier"
+@map font 10 to "Courier-Bold", "Courier-Bold"
+@map font 11 to "Courier-BoldOblique", "Courier-BoldOblique"
+@map font 9 to "Courier-Oblique", "Courier-Oblique"
+@map font 4 to "Helvetica", "Helvetica"
+@map font 6 to "Helvetica-Bold", "Helvetica-Bold"
+@map font 7 to "Helvetica-BoldOblique", "Helvetica-BoldOblique"
+@map font 5 to "Helvetica-Oblique", "Helvetica-Oblique"
+@map font 14 to "NimbusMonoPS-BoldItalic", "NimbusMonoPS-BoldItalic"
+@map font 15 to "NimbusMonoPS-Italic", "NimbusMonoPS-Italic"
+@map font 16 to "NimbusMonoPS-Regular", "NimbusMonoPS-Regular"
+@map font 17 to "NimbusRoman-Bold", "NimbusRoman-Bold"
+@map font 18 to "NimbusRoman-BoldItalic", "NimbusRoman-BoldItalic"
+@map font 19 to "NimbusRoman-Italic", "NimbusRoman-Italic"
+@map font 20 to "NimbusRoman-Regular", "NimbusRoman-Regular"
+@map font 21 to "NimbusSans-Bold", "NimbusSans-Bold"
+@map font 22 to "NimbusSans-BoldItalic", "NimbusSans-BoldItalic"
+@map font 23 to "NimbusSans-Italic", "NimbusSans-Italic"
+@map font 24 to "NimbusSans-Regular", "NimbusSans-Regular"
+@map font 25 to "NimbusSansNarrow-Bold", "NimbusSansNarrow-Bold"
+@map font 26 to "NimbusSansNarrow-BoldOblique", "NimbusSansNarrow-BoldOblique"
+@map font 27 to "NimbusSansNarrow-Oblique", "NimbusSansNarrow-Oblique"
+@map font 28 to "NimbusSansNarrow-Regular", "NimbusSansNarrow-Regular"
+@map font 29 to "P052-Bold", "P052-Bold"
+@map font 30 to "P052-BoldItalic", "P052-BoldItalic"
+@map font 31 to "P052-Italic", "P052-Italic"
+@map font 32 to "P052-Roman", "P052-Roman"
+@map font 33 to "StandardSymbolsPS-Regular", "StandardSymbolsPS-Regular"
+@map font 12 to "Symbol", "Symbol"
+@map font 2 to "Times-Bold", "Times-Bold"
+@map font 3 to "Times-BoldItalic", "Times-BoldItalic"
+@map font 1 to "Times-Italic", "Times-Italic"
+@map font 0 to "Times-Roman", "Times-Roman"
+@map font 39 to "URWBookman-Demi", "URWBookman-Demi"
+@map font 40 to "URWBookman-DemiItalic", "URWBookman-DemiItalic"
+@map font 41 to "URWBookman-Light", "URWBookman-Light"
+@map font 42 to "URWBookman-LightItalic", "URWBookman-LightItalic"
+@map font 43 to "URWGothic-Book", "URWGothic-Book"
+@map font 44 to "URWGothic-BookOblique", "URWGothic-BookOblique"
+@map font 45 to "URWGothic-Demi", "URWGothic-Demi"
+@map font 46 to "URWGothic-DemiOblique", "URWGothic-DemiOblique"
+@map font 47 to "Z003-MediumItalic", "Z003-MediumItalic"
+@map font 13 to "ZapfDingbats", "ZapfDingbats"
+@map color 0 to (255, 255, 255), "white"
+@map color 1 to (0, 0, 0), "black"
+@map color 2 to (255, 0, 0), "red"
+@map color 3 to (0, 255, 0), "green"
+@map color 4 to (0, 0, 255), "blue"
+@map color 5 to (255, 255, 0), "yellow"
+@map color 6 to (188, 143, 143), "brown"
+@map color 7 to (220, 220, 220), "grey"
+@map color 8 to (148, 0, 211), "violet"
+@map color 9 to (0, 255, 255), "cyan"
+@map color 10 to (255, 0, 255), "magenta"
+@map color 11 to (255, 165, 0), "orange"
+@map color 12 to (114, 33, 188), "indigo"
+@map color 13 to (103, 7, 72), "maroon"
+@map color 14 to (64, 224, 208), "turquoise"
+@map color 15 to (0, 139, 0), "green4"
+@reference date 0
+@date wrap off
+@date wrap year 1950
+@default linewidth 1.0
+@default linestyle 1
+@default color 1
+@default pattern 1
+@default font 0
+@default char size 1.000000
+@default symbol size 1.000000
+@default sformat "%.8g"
+@background color 0
+@page background fill on
+@timestamp off
+@timestamp 0.03, 0.03
+@timestamp color 1
+@timestamp rot 0
+@timestamp font 0
+@timestamp char size 1.000000
+@timestamp def "Wed Oct 29 02:57:47 2025"
+@r0 off
+@link r0 to g0
+@r0 type above
+@r0 linestyle 1
+@r0 linewidth 1.0
+@r0 color 1
+@r0 line 0, 0, 0, 0
+@r1 off
+@link r1 to g0
+@r1 type above
+@r1 linestyle 1
+@r1 linewidth 1.0
+@r1 color 1
+@r1 line 0, 0, 0, 0
+@r2 off
+@link r2 to g0
+@r2 type above
+@r2 linestyle 1
+@r2 linewidth 1.0
+@r2 color 1
+@r2 line 0, 0, 0, 0
+@r3 off
+@link r3 to g0
+@r3 type above
+@r3 linestyle 1
+@r3 linewidth 1.0
+@r3 color 1
+@r3 line 0, 0, 0, 0
+@r4 off
+@link r4 to g0
+@r4 type above
+@r4 linestyle 1
+@r4 linewidth 1.0
+@r4 color 1
+@r4 line 0, 0, 0, 0
+@g0 on
+@g0 hidden false
+@g0 type XY
+@g0 stacked false
+@g0 bar hgap 0.000000
+@g0 fixedpoint off
+@g0 fixedpoint type 0
+@g0 fixedpoint xy 0.000000, 0.000000
+@g0 fixedpoint format general general
+@g0 fixedpoint prec 6, 6
+@with g0
+@    world 0, 0, 375, 0.5
+@    stack world 0, 0, 0, 0
+@    znorm 1
+@    view 0.150000, 0.150000, 1.150000, 0.850000
+@    title "RMS Fluctuation of the Control Complex"
+@    title font 0
+@    title size 1.500000
+@    title color 1
+@    subtitle ""
+@    subtitle font 0
+@    subtitle size 1.000000
+@    subtitle color 1
+@    xaxes scale Normal
+@    yaxes scale Normal
+@    xaxes invert off
+@    yaxes invert off
+@    xaxis  on
+@    xaxis  type zero false
+@    xaxis  offset 0.000000 , 0.000000
+@    xaxis  bar on
+@    xaxis  bar color 1
+@    xaxis  bar linestyle 1
+@    xaxis  bar linewidth 1.0
+@    xaxis  label "Residue Number"
+@    xaxis  label layout para
+@    xaxis  label place auto
+@    xaxis  label char size 1.000000
+@    xaxis  label font 0
+@    xaxis  label color 1
+@    xaxis  label place normal
+@    xaxis  tick on
+@    xaxis  tick major 50
+@    xaxis  tick minor ticks 1
+@    xaxis  tick default 6
+@    xaxis  tick place rounded true
+@    xaxis  tick in
+@    xaxis  tick major size 1.000000
+@    xaxis  tick major color 1
+@    xaxis  tick major linewidth 1.0
+@    xaxis  tick major linestyle 1
+@    xaxis  tick major grid off
+@    xaxis  tick minor color 1
+@    xaxis  tick minor linewidth 1.0
+@    xaxis  tick minor linestyle 1
+@    xaxis  tick minor grid off
+@    xaxis  tick minor size 0.500000
+@    xaxis  ticklabel on
+@    xaxis  ticklabel format general
+@    xaxis  ticklabel prec 5
+@    xaxis  ticklabel formula ""
+@    xaxis  ticklabel append ""
+@    xaxis  ticklabel prepend ""
+@    xaxis  ticklabel angle 0
+@    xaxis  ticklabel skip 0
+@    xaxis  ticklabel stagger 0
+@    xaxis  ticklabel place normal
+@    xaxis  ticklabel offset auto
+@    xaxis  ticklabel offset 0.000000 , 0.010000
+@    xaxis  ticklabel start type auto
+@    xaxis  ticklabel start 0.000000
+@    xaxis  ticklabel stop type auto
+@    xaxis  ticklabel stop 0.000000
+@    xaxis  ticklabel char size 1.000000
+@    xaxis  ticklabel font 0
+@    xaxis  ticklabel color 1
+@    xaxis  tick place both
+@    xaxis  tick spec type none
+@    yaxis  on
+@    yaxis  type zero false
+@    yaxis  offset 0.000000 , 0.000000
+@    yaxis  bar on
+@    yaxis  bar color 1
+@    yaxis  bar linestyle 1
+@    yaxis  bar linewidth 1.0
+@    yaxis  label "RMSF (nm)"
+@    yaxis  label layout para
+@    yaxis  label place auto
+@    yaxis  label char size 1.000000
+@    yaxis  label font 0
+@    yaxis  label color 1
+@    yaxis  label place normal
+@    yaxis  tick on
+@    yaxis  tick major 0.1
+@    yaxis  tick minor ticks 1
+@    yaxis  tick default 6
+@    yaxis  tick place rounded true
+@    yaxis  tick in
+@    yaxis  tick major size 1.000000
+@    yaxis  tick major color 1
+@    yaxis  tick major linewidth 1.0
+@    yaxis  tick major linestyle 1
+@    yaxis  tick major grid off
+@    yaxis  tick minor color 1
+@    yaxis  tick minor linewidth 1.0
+@    yaxis  tick minor linestyle 1
+@    yaxis  tick minor grid off
+@    yaxis  tick minor size 0.500000
+@    yaxis  ticklabel on
+@    yaxis  ticklabel format general
+@    yaxis  ticklabel prec 5
+@    yaxis  ticklabel formula ""
+@    yaxis  ticklabel append ""
+@    yaxis  ticklabel prepend ""
+@    yaxis  ticklabel angle 0
+@    yaxis  ticklabel skip 0
+@    yaxis  ticklabel stagger 0
+@    yaxis  ticklabel place normal
+@    yaxis  ticklabel offset auto
+@    yaxis  ticklabel offset 0.000000 , 0.010000
+@    yaxis  ticklabel start type auto
+@    yaxis  ticklabel start 0.000000
+@    yaxis  ticklabel stop type auto
+@    yaxis  ticklabel stop 0.000000
+@    yaxis  ticklabel char size 1.000000
+@    yaxis  ticklabel font 0
+@    yaxis  ticklabel color 1
+@    yaxis  tick place both
+@    yaxis  tick spec type none
+@    altxaxis  off
+@    altyaxis  off
+@    legend on
+@    legend loctype view
+@    legend 0.85, 0.8
+@    legend box color 1
+@    legend box pattern 1
+@    legend box linewidth 1.0
+@    legend box linestyle 1
+@    legend box fill color 0
+@    legend box fill pattern 1
+@    legend font 0
+@    legend char size 1.000000
+@    legend color 1
+@    legend length 4
+@    legend vgap 1
+@    legend hgap 1
+@    legend invert false
+@    frame type 0
+@    frame linestyle 1
+@    frame linewidth 1.0
+@    frame color 1
+@    frame pattern 1
+@    frame background color 0
+@    frame background pattern 0
+@    s0 hidden false
+@    s0 type xy
+@    s0 symbol 0
+@    s0 symbol size 1.000000
+@    s0 symbol color 1
+@    s0 symbol pattern 1
+@    s0 symbol fill color 1
+@    s0 symbol fill pattern 0
+@    s0 symbol linewidth 1.0
+@    s0 symbol linestyle 1
+@    s0 symbol char 65
+@    s0 symbol char font 0
+@    s0 symbol skip 0
+@    s0 line type 1
+@    s0 line linestyle 1
+@    s0 line linewidth 1.0
+@    s0 line color 1
+@    s0 line pattern 1
+@    s0 baseline type 0
+@    s0 baseline off
+@    s0 dropline off
+@    s0 fill type 0
+@    s0 fill rule 0
+@    s0 fill color 1
+@    s0 fill pattern 1
+@    s0 avalue off
+@    s0 avalue type 2
+@    s0 avalue char size 1.000000
+@    s0 avalue font 0
+@    s0 avalue color 1
+@    s0 avalue rot 0
+@    s0 avalue format general
+@    s0 avalue prec 3
+@    s0 avalue prepend ""
+@    s0 avalue append ""
+@    s0 avalue offset 0.000000 , 0.000000
+@    s0 errorbar on
+@    s0 errorbar place both
+@    s0 errorbar color 1
+@    s0 errorbar pattern 1
+@    s0 errorbar size 1.000000
+@    s0 errorbar linewidth 1.0
+@    s0 errorbar linestyle 1
+@    s0 errorbar riser linewidth 1.0
+@    s0 errorbar riser linestyle 1
+@    s0 errorbar riser clip off
+@    s0 errorbar riser clip length 0.100000
+@    s0 comment "/home/ayush/MANIT_PROJECT/MD SIMULATION/control_oleanolic_acid/rmsf_per_residue.xvg"
+@    s0 legend  ""
+@target G0.S0
+@type xy
+36 0.4219
+37 0.284
+38 0.1427
+39 0.1688
+40 0.149
+41 0.1307
+42 0.1103
+43 0.0975
+44 0.077
+45 0.0851
+46 0.098
+47 0.0826
+48 0.0688
+49 0.0823
+50 0.0727
+51 0.0829
+52 0.0782
+53 0.0624
+54 0.0651
+55 0.0794
+56 0.0788
+57 0.0707
+58 0.0861
+59 0.1061
+60 0.0994
+61 0.1076
+62 0.134
+63 0.1195
+64 0.1377
+65 0.1155
+66 0.095
+67 0.1083
+68 0.1129
+69 0.1118
+70 0.1073
+71 0.1267
+72 0.1301
+73 0.1465
+74 0.1188
+75 0.0937
+76 0.11
+77 0.1136
+78 0.0871
+79 0.0837
+80 0.0726
+81 0.0664
+82 0.0714
+83 0.0729
+84 0.0749
+85 0.0862
+86 0.0839
+87 0.087
+88 0.0669
+89 0.0746
+90 0.0705
+91 0.0591
+92 0.0709
+93 0.0705
+94 0.0694
+95 0.0949
+96 0.0938
+97 0.0868
+98 0.1326
+99 0.1191
+100 0.0731
+101 0.0654
+102 0.0607
+103 0.0504
+104 0.0544
+105 0.0589
+106 0.0657
+107 0.0779
+108 0.0712
+109 0.078
+110 0.0665
+111 0.0792
+112 0.0785
+113 0.0687
+114 0.0808
+115 0.072
+116 0.0751
+117 0.0857
+118 0.1155
+119 0.0875
+120 0.1043
+121 0.0908
+122 0.0673
+123 0.0625
+124 0.0583
+125 0.053
+126 0.055
+127 0.0564
+128 0.0614
+129 0.0708
+130 0.0656
+131 0.0774
+132 0.0708
+133 0.0784
+134 0.0789
+135 0.0712
+136 0.0744
+137 0.0796
+138 0.083
+139 0.0728
+140 0.1243
+141 0.0802
+142 0.081
+143 0.0671
+144 0.0571
+145 0.059
+146 0.0553
+147 0.0527
+148 0.0538
+149 0.057
+150 0.0623
+151 0.0713
+152 0.068
+153 0.0802
+154 0.0737
+155 0.0792
+156 0.0817
+157 0.0717
+158 0.0767
+159 0.0781
+160 0.0708
+161 0.0753
+162 0.1319
+163 0.0836
+164 0.1098
+165 0.0847
+166 0.0627
+167 0.0627
+168 0.056
+169 0.0542
+170 0.057
+171 0.061
+172 0.061
+173 0.0678
+174 0.0686
+175 0.0831
+176 0.0726
+177 0.0759
+178 0.0776
+179 0.0686
+180 0.0742
+181 0.0773
+182 0.0704
+183 0.0736
+184 0.1276
+185 0.0831
+186 0.1045
+187 0.0771
+188 0.0627
+189 0.0618
+190 0.0575
+191 0.0561
+192 0.0575
+193 0.0625
+194 0.0676
+195 0.0686
+196 0.0724
+197 0.0765
+198 0.0678
+199 0.0728
+200 0.0721
+201 0.0665
+202 0.0732
+203 0.081
+204 0.0713
+205 0.0797
+206 0.1175
+207 0.084
+208 0.1075
+209 0.079
+210 0.0647
+211 0.0647
+212 0.0605
+213 0.0598
+214 0.0599
+215 0.062
+216 0.0604
+217 0.0645
+218 0.0628
+219 0.0686
+220 0.061
+221 0.0674
+222 0.0675
+223 0.0737
+224 0.0713
+225 0.076
+226 0.0766
+227 0.0883
+228 0.133
+229 0.0873
+230 0.1149
+231 0.0928
+232 0.0666
+233 0.0682
+234 0.0631
+235 0.0562
+236 0.0565
+237 0.0567
+238 0.0572
+239 0.059
+240 0.0555
+241 0.0561
+242 0.0555
+243 0.059
+244 0.0562
+245 0.0634
+246 0.0796
+247 0.0989
+248 0.1029
+249 0.1117
+250 0.1547
+251 0.1238
+252 0.1265
+253 0.0994
+254 0.0744
+255 0.0807
+256 0.0734
+257 0.0648
+258 0.0606
+259 0.0584
+260 0.0589
+261 0.0594
+262 0.0518
+263 0.0587
+264 0.0607
+265 0.073
+266 0.0786
+267 0.1053
+268 0.1111
+269 0.1186
+270 0.1362
+271 0.1336
+272 0.1395
+273 0.1408
+274 0.1345
+275 0.112
+276 0.1046
+277 0.0918
+278 0.0867
+279 0.065
+280 0.0618
+281 0.0519
+282 0.0571
+283 0.0642
+284 0.0754
+285 0.0979
+286 0.0955
+287 0.0916
+288 0.0735
+289 0.0671
+290 0.0748
+291 0.0649
+292 0.073
+293 0.0733
+294 0.0694
+295 0.0826
+296 0.1013
+297 0.1095
+298 0.0922
+299 0.0945
+300 0.0894
+301 0.1302
+302 0.1167
+303 0.106
+304 0.0917
+305 0.0783
+306 0.0962
+307 0.1061
+308 0.1279
+309 0.1331
+310 0.1583
+311 0.1595
+312 0.1454
+313 0.1254
+314 0.1198
+315 0.0917
+316 0.0749
+317 0.0611
+318 0.0529
+319 0.0558
+320 0.0569
+321 0.0653
+322 0.0732
+323 0.0737
+324 0.0689
+325 0.0732
+326 0.0794
+327 0.0942
+328 0.0884
+329 0.0819
+330 0.0762
+331 0.0718
+332 0.0708
+333 0.0606
+334 0.0539
+335 0.0525
+336 0.0512
+337 0.0492
+338 0.0598
+339 0.0694
+340 0.0908
+341 0.1072
+342 0.1416
+343 0.2041
+&

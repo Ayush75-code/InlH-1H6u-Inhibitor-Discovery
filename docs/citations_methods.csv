@@ -1,0 +1,55 @@
+#,"Citation (Author, Year, Journal)",Key Topic,DOI / Web Address
+1,"Rogalla D, Bomar PA (2025). Listeria Monocytogenes. In StatPearls.",Clinical Definition,http://www.ncbi.nlm.nih.gov/books/NBK534838/
+2,"Osek J, Lachtara B, et al. (2022). Listeria monocytogenes – How This Pathogen Survives in Food-Production Environments?",Environmental Survival,doi:10.3389/fmicb.2022.866462
+3,World Health Organization (2024). Listeriosis.,Mortality Rates,https://www.who.int/news-room/fact-sheets/detail/listeriosis
+4,"Koopmans MM, Brouwer MC, et al. (2023). Human Listeriosis. Clin Microbiol Rev.",At-Risk Groups,doi:10.1128/cmr.00060-19
+5,Schlech WF. (2019). Epidemiology and Clinical Manifestations of Listeria monocytogenes Infection. Microbiol Spectr.,At-Risk Groups,doi:10.1128/microbiolspec.GPP3-0014-2018
+6,"De Noordhout CM, Devleesschauwer B, et al. (2014). The global burden of listeriosis... The Lancet Infectious Diseases.",Disease Burden & Outcomes,doi:10.1016/S1473-3099(14)70870-9
+7,"Duma MN, Ciupescu LM, et al. (2024). Virulence and Antimicrobial Resistance of Listeria monocytogenes... Microorganisms.",Antibiotic Resistance,doi:10.3390/microorganisms12050954
+8,"Dabiri GA, Sanger JM, et al. (1990). Listeria monocytogenes moves rapidly through the host-cell cytoplasm... Proc Natl Acad Sci USA.",ActA/Cytoplasmic Motility,doi:10.1073/pnas.87.16.6068
+9,"Luque-Sastre L, Arroyo C, et al. (2018). Antimicrobial Resistance in Listeria Species. Microbiol Spectr.",Antibiotic Intracellular Ineffectiveness,doi:10.1128/microbiolspec.ARBA-0031-2017
+10,Arias Moreno X. (2023). Targeting PrfA from Listeria monocytogenes...,Anti-Virulence Strategy,doi:10.1101/2023.12.10.570966
+11,"Sabet C, Lecuit M, et al. (2005). LPXTG Protein InlJ, a Newly Identified Internalin... Infect Immun.",Internalin Family Definition,doi:10.1128/IAI.73.10.6912-6922.2005
+12,"Ortega FE, Rengarajan M, et al. (2017). Adhesion to the host cell surface is sufficient to mediate Listeria monocytogenes entry... MBoC.",InlA/E-cadherin Mechanism,doi:10.1091/mbc.e16-12-0851
+13,"Gedde MM, Higgins DE, et al. (2000). Role of Listeriolysin O in Cell-to-Cell Spread... Infect Immun.",Listeriolysin O (LLO) Function,doi:10.1128/IAI.68.2.999-1003.2000
+14,"Personnic N, Bruck S, et al. (2010). The Stress-Induced Virulence Protein InlH Controls Interleukin-6 Production... Infect Immun.",Internalin H (InlH) Mechanism,doi:10.1128/IAI.01096-09
+15,"Lee JW, Maria-Solano MA, et al. (2022). Big data and artificial intelligence (AI) methodologies for... (CADD). Biochemical Society Transactions.",CADD Methodology Review,doi:10.1042/BST20211240
+16,"Wong F, Krishnan A, et al. (2022). Benchmarking AlphaFold‐enabled molecular docking... Molecular Systems Biology.",Docking Methodology/Screening,doi:10.15252/msb.202211081
+17,Brogi S. (2019). Computational Approaches for Drug Discovery. Molecules.,In Silico Efficiency/Cost,doi:10.3390/molecules24173061
+18,"Guan L, Yang H, et al. (2019). ADMET-score – a comprehensive scoring function for evaluation... Med Chem Commun.",ADMET Failures,doi:10.1039/C8MD00472B
+19,"Guedes, I. A., Pereira, F. R., & Dardenne, L. E. (2014). Molecular docking: a powerful tool for structure-based drug discovery. SAR and QSAR in Environmental Research.",New Docking Review,doi:10.1002/qsar.201300111
+20,"Du, X., Li, Y., Xia, Y. L., et al. (2011). Molecular docking: a powerful approach for structure-based drug discovery. Current Computer-Aided Drug Design.",New Docking Review,doi:10.2174/157340911795677602
+21,"De Vivo, M., Masetti, M., et al. (2016). Role of Molecular Dynamics and Related Methods in Drug Discovery. Journal of Medicinal Chemistry.",MD Review/Validation,doi:10.1021/acs.jmedchem.5b01684
+22,"Genheden, S., & Ryde, U. (2015). The MM/PBSA and MM/GBSA methods... Expert Opinion on Drug Discovery.",MM/GBSA Review,doi:10.1517/17460441.2015.1032936
+23,"Wang, E., Sun, H., et al. (2019). End-point binding free energy calculation with MM/PBSA and MM/GBSA... Nature Protocols.",MM/GBSA Protocol,doi:10.1038/s41596-019-0125-5
+24,"Fukui, K. (1982). Role of frontier orbitals in chemical reactions. Science.",DFT/FMO Theory,doi:10.1126/science.218.4574.747
+25,"Pearson, R. G. (1986). Absolute electronegativity and hardness... Inorganic Chemistry.",DFT/Reactivity Theory,doi:10.1021/ic00224a003
+26,"GROMACS: Abraham, M. J., et al. (2015). GROMACS: High performance molecular simulations... Bioinformatics.",MD Software,doi:10.1093/bioinformatics/btv331
+27,"AMBER99SB-ILDN: Lindorff-Larsen, K., et al. (2010). Improved side-chain torsion potentials... Proteins.",Force Field,doi:10.1002/prot.22711
+28,"GAFF: Wang, J., Wolf, R. M., et al. (2004). Development and testing of a general Amber force field. J Comput Chem.",Force Field,doi:10.1002/jcc.20035
+29,"TIP3P: Jorgensen, W. L., et al. (1983). Comparison of simple potential functions for simulating liquid water. J Chem Phys.",Water Model,doi:10.1063/1.445869
+30,"V-rescale Thermostat: Bussi, G., Donadio, D., & Parrinello, M. (2007). Canonical sampling through velocity rescaling. J Chem Phys.",Thermostat,doi:10.1063/1.2408420
+31,"Parrinello-Rahman Barostat: Parrinello, M., & Rahman, A. (1981). Polymorphic transitions... Journal of Applied Physics.",Barostat,doi:10.1063/1.328693
+32,"Berendsen Barostat: Berendsen, H. J. C., et al. (1984). Molecular dynamics with coupling... J Chem Phys.",Barostat,doi:10.1063/1.448118
+33,"GB-OBC2 Model: Onufriev, A., Bashford, D., & Case, D. A. (2004). Exploring protein native states with a modified generalized Born model. Proteins.",MMGBSA Implicit Solvent,doi:10.1002/prot.20033
+34,"ORCA: Neese, F. (2022). Software update: The ORCA program system, version 5.0. Wiley Interdiscip Rev Comput Mol Sci.",DFT Software,doi:10.1002/wcms.1606
+35,"B3LYP: Becke, A. D. (1993). A new mixing of Hartree–Fock and local density-functional theories. J Chem Phys.",DFT Functional,doi:10.1063/1.464304
+36,"B3LYP (LYP part): Lee, C., Yang, W., & Parr, R. G. (1988). Development of the Colle-Salvetti correlation-energy formula... Physical Review B.",DFT Functional,doi:10.1103/PhysRevB.37.785
+37,"D3 Correction: Grimme, S., et al. (2010). A consistent and accurate ab initio parametrization of density functional dispersion correction... J Chem Phys.",DFT Dispersion Correction,doi:10.1063/1.3382344
+38,"MMFF94: Halgren, T. A. (1996). Merck molecular force field. I. Basis, form, scope... J Comput Chem.",Docking/Prep Force Field,doi:10.1002/(SICI)1096-987X(199604)17:5/6<490::AID-JCC1>3.0.CO;2-P
+39,"Gasteiger Charges: Gasteiger, J., & Marsili, M. (1980). Iterative partial equalization of orbital electronegativity... Tetrahedron.",Pre-Docking Charge Method,doi:10.1016/0040-4020(80)80168-2
+40,"Lipinski's Rule: Lipinski, C. A., et al. (1997). Experimental and computational approaches to estimate solubility... Advanced Drug Delivery Reviews.",Drug Likeness Filter,doi:10.1016/S0169-409X(96)00423-1
+41,"PLIP: Adasme, M. F., et al. (2021). PLIP 2021: expanding the scope of the protein–ligand interaction profiler... Nucleic Acids Research.",Interaction Analysis Tool,doi:10.1093/nar/gkab294
+42,"SwissADME: Daina, A., Michielin, O., & Zoete, V. (2017). SwissADME: a free web tool to evaluate pharmacokinetics... Scientific Reports.",ADMET Server,doi:10.1038/srep42717
+43,"VMD: Humphrey, W., Dalke, A., & Schulten, K. (1996). VMD: Visual molecular dynamics. Journal of Molecular Graphics.",Visualization Software,doi:10.1016/0263-7855(96)00018-5
+44,"Open Babel: O'Boyle, N. M., et al. (2011). Open Babel: An open chemical toolbox. Journal of Cheminformatics.",Chemical Format Conversion,doi:10.1186/1758-2946-3-33
+45,"RCSB PDB: Berman, H. M., et al. (2000). The Protein Data Bank. Nucleic Acids Research.",Database,doi:10.1093/nar/28.1.235
+46,"PubChem: Kim, S., Chen, J., et al. (2023). PubChem 2023 update. Nucleic Acids Research.",Database,doi:10.1093/nar/gkac956
+47,"AutoDock 4/ADT: Morris, G. M., et al. (2009). AutoDock4 and AutoDockTools4: Automated docking... J Comput Chem.",Docking Software,doi:10.1002/jcc.21256
+48,"AutoDock Vina: Trott, O., & Olson, A. J. (2010). AutoDock Vina: improving the speed and accuracy of docking... J Comput Chem.",Docking Software,doi:10.1002/jcc.21334
+49,"Kollman Charges: Singh, U. C., & Kollman, P. A. (1984). An approach to computing electrostatic charges for molecules. J Comput Chem.",Pre-Docking Charge Method,doi:10.1002/jcc.540050204
+50,"AM1-BCC Charges: Jakalian, A., et al. (2000). Fast, efficient generation of high-quality atomic charges. AM1-BCC model: I. Method. J Comput Chem.",Pre-MD Charge Method,doi:10.1002/(SICI)1096-987X(20000130)21:2<132::AID-JCC5>3.0.CO;2-J
+51,"Acpype: Sousa da Silva, A. W., & Vranken, W. F. (2012). ACPYPE - AnteChamber PYthon Parser interfacE. BMC Research Notes.",Topology Conversion Tool,doi:10.1186/1756-0500-5-367
+52,"gmx_MMPBSA: Valdés-Tresanco, M. S., et al. (2021). gmx_MMPBSA: A New Tool to Perform End-State Free Energy Calculations with GROMACS. J Chem Theory Comput.",MMGBSA Software,doi:10.1021/acs.jctc.1c00653
+53,"PyMOL: The PyMOL Molecular Graphics System, Version 2.5, Schrödinger, LLC.",Visualization Software,
+54,"def2-SVP: Weigend, F., & Ahlrichs, R. (2005). Balanced basis sets... Phys Chem Chem Phys.",DFT Basis Set,doi:10.1039/B508541A
