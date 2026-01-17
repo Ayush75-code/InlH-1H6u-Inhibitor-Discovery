@@ -31,7 +31,7 @@
 | Compound | PubChem CID | Role | ΔGbind (kcal/mol) |
 |----------|-------------|------|-------------------|
 | **Hederagenin analogue** | 137633443 | **Lead candidate** | **−17.09** |
-| Lupeol analogue | 70626379 | Test compound | −10.75 |
+| Lupeol analogue | 70626379 | Test compound | −9.33 |
 | Oleanolic Acid analogue | 44575931 | Control | −10.88 |
 | Maslinic Acid analogue | 163053220 | Test compound | −9.65 |
 
