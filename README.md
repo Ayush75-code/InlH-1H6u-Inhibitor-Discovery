@@ -88,20 +88,31 @@ HTVS Virtual Screening → ADMET Profiling → Molecular Docking
 
 ## Citation
 
+If you use this data, please cite:
+
+> **Targeting a key virulence factor in Listeria monocytogenes: An in silico discovery and pharmacokinetic profiling of novel internalin H inhibitors**  
+> *In Silico* (2025)  
+> DOI: [10.1016/j.insi.2025.100153](https://doi.org/10.1016/j.insi.2025.100153)
+
 ```bibtex
 @article{inlh_inhibitors_2025,
   title={Targeting a key virulence factor in Listeria monocytogenes: 
          An in silico discovery and pharmacokinetic profiling of 
          novel internalin H inhibitors},
+  journal={In Silico},
   year={2025},
-  journal={[Journal Name]},
-  doi={[DOI]}
+  doi={10.1016/j.insi.2025.100153}
 }
 ```
 
 ## License
 
-Academic and research use permitted with proper citation.
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For questions, data requests, or collaborations:  
+📧 **Email:** ayushd9275@gmail.com
 
 ---
 
